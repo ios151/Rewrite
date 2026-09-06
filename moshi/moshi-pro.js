@@ -36,28 +36,28 @@ const BODIES = {
     entitlement: entitlement,
     licenses: [license],
     entitlements: [entitlement]
+  },
+  devices: {
+    devices: [],
+    activeDevices: 0
   }
 };
 
 const url = $request.url;
-const body = url.indexOf("/licenses/activate") !== -1 ? BODIES.activate
+const data = url.indexOf("/devices") !== -1 ? BODIES.devices
+           : url.indexOf("/licenses/activate") !== -1 ? BODIES.activate
            : url.indexOf("/licenses/me") !== -1 ? BODIES.me
            : null;
 
-if (!body) {
+if (!data) {
   $done({});
 } else {
-  const DROP = ["content-length", "content-encoding", "content-type"];
-  const headers = {};
-  const src = $response.headers || {};
-  Object.keys(src).forEach(k => {
-    if (DROP.indexOf(k.toLowerCase()) === -1) headers[k] = src[k];
-  });
-  headers["Content-Type"] = "application/json";
+  const body = JSON.stringify(data);
+  const headers = { "Content-Type": "application/json" };
 
-  $done({
-    status: typeof $task !== "undefined" ? "HTTP/1.1 200 OK" : 200,
-    headers: headers,
-    body: JSON.stringify(body)
-  });
+  if (typeof $task !== "undefined") {
+    $done({ status: "HTTP/1.1 200 OK", headers: headers, body: body });
+  } else {
+    $done({ response: { status: 200, headers: headers, body: body } });
+  }
 }
