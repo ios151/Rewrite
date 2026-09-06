@@ -1,0 +1,9 @@
+#!name=Moshi
+#!desc=3.13.2 买断永久 Pro 后续版本为止
+#!category=Crack
+
+[MITM]
+hostname = %APPEND% api.getmoshi.app
+
+[Script]
+moshi-pro = type=http-response,pattern=^https:\/\/api\.getmoshi\.app\/api\/v1\/licenses\/(me|activate),requires-body=1,max-size=0,binary-body-mode=0,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/moshi/moshi-pro.js,timeout=15
