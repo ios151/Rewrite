@@ -1,0 +1,13 @@
+#!name=Yu9191 → ios151 链接重定向
+#!desc=旧号 Yu9191 已迁移至 ios151，访问 raw / github 旧路径时自动 302 到新号
+#!author=ios151
+#!homepage=https://github.com/ios151/Rewrite
+
+[URL Rewrite]
+^https:\/\/raw\.githubusercontent\.com\/Yu9191\/Yu9191\/(.*) https://raw.githubusercontent.com/ios151/ios151/$1 302
+^https:\/\/raw\.githubusercontent\.com\/Yu9191\/(.*) https://raw.githubusercontent.com/ios151/$1 302
+^https:\/\/github\.com\/Yu9191\/Yu9191(\/.*)?$ https://github.com/ios151/ios151$1 302
+^https:\/\/github\.com\/Yu9191(\/.*)?$ https://github.com/ios151$1 302
+
+[MITM]
+hostname = %APPEND% raw.githubusercontent.com, github.com
