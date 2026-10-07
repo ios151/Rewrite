@@ -13,10 +13,10 @@
 * 示例: .js?phone=138xxx
 * 示例: .js?notify=0 可以不填写手机号和OCR密钥
 [task_local]
-15 7-23/1 * * * https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/kuwotask.js, tag=酷我音乐签到, img-url=https://raw.githubusercontent.com/deezertidal/private/main/icons/kuwosvip.png, enabled=true
+15 7-23/1 * * * https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/kuwotask.js, tag=酷我音乐签到, img-url=https://raw.githubusercontent.com/deezertidal/private/main/icons/kuwosvip.png, enabled=true
 
 [rewrite_local]
-^https?:\/\/360\.com\/kuwo url script-analyze-echo-response https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/kuwotask.js
+^https?:\/\/360\.com\/kuwo url script-analyze-echo-response https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/kuwotask.js
 
 [mitm]
 hostname = *.kuwo.cn，360.com

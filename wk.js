@@ -3,7 +3,7 @@
  * 解锁会员
  * 
 [rewrite_local]
-^https:\/\/wankang\.xlhcq\.com\/v1\/user_info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/wk.js
+^https:\/\/wankang\.xlhcq\.com\/v1\/user_info url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/wk.js
 
 [mitm]
 hostname = wankang.xlhcq.com

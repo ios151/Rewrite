@@ -4,7 +4,7 @@
 
  [rewrite_local]
  
- ^https:\/\/d18psf29jvwgay\.cloudfront\.net\/api\/app\/(media\/play|user\/info|login\/guest|ping\/config|card\/list) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/xv.js
+ ^https:\/\/d18psf29jvwgay\.cloudfront\.net\/api\/app\/(media\/play|user\/info|login\/guest|ping\/config|card\/list) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/xv.js
  
  
  [mitm]

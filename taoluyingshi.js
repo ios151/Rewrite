@@ -3,7 +3,7 @@
  2026-05-06 17点42分
 
 [rewrite_local]
-^https?:\/\/[^\/]*taoluyingshi[^\/]*\/index\.php\/vod\/play\/id\/(\d+)\/sid\/(\d+)\/nid\/(\d+) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/taoluyingshi.js
+^https?:\/\/[^\/]*taoluyingshi[^\/]*\/index\.php\/vod\/play\/id\/(\d+)\/sid\/(\d+)\/nid\/(\d+) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/taoluyingshi.js
 
 [mitm]
 hostname = *.taoluyingshi.vip, taoluyingshi.vip

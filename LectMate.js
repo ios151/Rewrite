@@ -2,7 +2,7 @@
  * 有道留学听课宝
 
 [rewrite_local]
-https://intervip.youdao.com/api/verify/apple-iap-receipt url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/LectMate.js
+https://intervip.youdao.com/api/verify/apple-iap-receipt url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/LectMate.js
 
 [mitm]
 hostname = intervip.youdao.com  

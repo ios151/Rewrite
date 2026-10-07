@@ -3,7 +3,7 @@
   * by:iu
   * 频道：https://t.me/Jsforbaby
 [rewrite_local]
-https?:\/\/xfapi\.fingerabc\.cn\/+api\/(cf\/vip\/queryList|bookModule\/get\/bookModuleAsNew|lesson\/(queryCalendarBook|queryLessons)|product\/getCategoryProduct|tagMaterial\/queryVipStatus).* url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/xfbs.js
+https?:\/\/xfapi\.fingerabc\.cn\/+api\/(cf\/vip\/queryList|bookModule\/get\/bookModuleAsNew|lesson\/(queryCalendarBook|queryLessons)|product\/getCategoryProduct|tagMaterial\/queryVipStatus).* url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/xfbs.js
 
 [mitm]
 hostname = xfapi.fingerabc.cn

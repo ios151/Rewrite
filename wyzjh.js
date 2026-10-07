@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-^https?:\/\/plan\.gangduotech\.com\/api\/(.+\/dressup\/order|.+\/member\/view)\.html url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/wyzjh.js
+^https?:\/\/plan\.gangduotech\.com\/api\/(.+\/dressup\/order|.+\/member\/view)\.html url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/wyzjh.js
 
 [mitm]
 

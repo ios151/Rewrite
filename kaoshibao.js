@@ -1,7 +1,7 @@
 /*
 [rewrite_local]
 ^https:\/\/api\.ankianki\.com\/banner\/get$ url reject
-^https:\/\/(api\.ankianki\.com|search-api\.yisouti\.com)\/(user\/userInfo\/get|search\/(getOcrStatus|ocr2|mixPaper)|kaoShi\/.*|paper\/(home|topErrors)|user\/coupon\/getExpireInfo|mockExam\/config|document\/file|questions\/fetch) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/kaoshibao.js
+^https:\/\/(api\.ankianki\.com|search-api\.yisouti\.com)\/(user\/userInfo\/get|search\/(getOcrStatus|ocr2|mixPaper)|kaoShi\/.*|paper\/(home|topErrors)|user\/coupon\/getExpireInfo|mockExam\/config|document\/file|questions\/fetch) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/kaoshibao.js
 
 [mitm]
 hostname = api.ankianki.com, search-api.yisouti.com

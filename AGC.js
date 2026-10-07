@@ -4,7 +4,7 @@
  * 先登录
 
 [rewrite_local]
-https://api.agcplayer.com/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/AGC.js
+https://api.agcplayer.com/ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/AGC.js
 [mitm]
 hostname = api.agcplayer.com
  */

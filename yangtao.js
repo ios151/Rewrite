@@ -4,7 +4,7 @@
  * 2025-04-21
  * 
 [rewrite_local]
-^http:\/\/\d{1,3}(\.\d{1,3}){3}:8361\/(index\/getUserAppInfo|member\/getMoney|newVideo\/leaseVideo) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/yangtao.js
+^http:\/\/\d{1,3}(\.\d{1,3}){3}:8361\/(index\/getUserAppInfo|member\/getMoney|newVideo\/leaseVideo) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/yangtao.js
 ^http:\/\/206\.119\.85\.11:8361\/ad\/getAd$ url reject
 ^http:\/\/47\.57\.71\.112:8361\/ad\/getAd$ url reject
 */

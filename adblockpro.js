@@ -3,7 +3,7 @@
 adblockpro 10.7.5
 
 [rewrite_local]
-^https:\/\/api\.adblockpro\.app\/verify url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/adblockpro.js
+^https:\/\/api\.adblockpro\.app\/verify url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/adblockpro.js
 [mitm]
 hostname = api.adblockpro.app
 */

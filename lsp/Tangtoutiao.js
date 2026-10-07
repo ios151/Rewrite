@@ -13,11 +13,11 @@
 [rewrite_local]
 
 #通用
-;^https:\/\/[^\/]*\.qxoovv\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)?$ url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/lsp/Tangtoutiao.js
-;^https:\/\/[^\/]*\.shjsvkj\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)?$ url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/lsp/Tangtoutiao.js
-;^https:\/\/[^\/]*\.shoknkj\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)?$ url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/lsp/Tangtoutiao.js
+;^https:\/\/[^\/]*\.qxoovv\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)?$ url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/main/lsp/Tangtoutiao.js
+;^https:\/\/[^\/]*\.shjsvkj\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)?$ url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/main/lsp/Tangtoutiao.js
+;^https:\/\/[^\/]*\.shoknkj\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)?$ url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/main/lsp/Tangtoutiao.js
 #只保留一个
-^https:\/\/[^\/]*\..*\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)? url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/lsp/Tangtoutiao.js
+^https:\/\/[^\/]*\..*\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)? url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/main/lsp/Tangtoutiao.js
 [mitm] 
 
 hostname = *.shjsvkj.cn, *.qxoovv.cn, *.shoknkj.cn, *.shedbgs.cn, *.shnyigs.cn, *.sholfgs.cn, *.shjtqgs.cn, *.shjtpkj.cn, *.hfsudf.cn, *.qohzni.cn, 120play.*.cn, h5play.*.com, long.*.cn 

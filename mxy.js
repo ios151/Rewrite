@@ -3,8 +3,8 @@
  2025-10-2：无限制使用
  2025-10-3：键盘-"帮润色"已失效
 [rewrite_local]
-https:\/\/api\.honey\.zzzs888\.com\/api\/apple\/open\/chat_stream url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/mxy.js
-https:\/\/api\.honey\.zzzs888\.com\/api\/apple\/account\?version url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/mxy.js
+https:\/\/api\.honey\.zzzs888\.com\/api\/apple\/open\/chat_stream url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/mxy.js
+https:\/\/api\.honey\.zzzs888\.com\/api\/apple\/account\?version url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/mxy.js
  
 [mitm]
 hostname = api.honey.zzzs888.com

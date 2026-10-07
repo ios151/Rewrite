@@ -2,7 +2,7 @@
   * 激光投影
 
 [rewrite_local]
-http://47.120.25.12:3000/app/subscribe/getSubscribeData url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/jgty.js
+http://47.120.25.12:3000/app/subscribe/getSubscribeData url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/jgty.js
 
 [mitm]
 hostname = 47.120.25.12:3000

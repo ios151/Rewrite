@@ -4,7 +4,7 @@ BodyOk 4.1.9
 表盘商店
 
 [rewrite_local]
-^https:\/\/api\.apphud\.com\/v1\/(subscriptions|customers)$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/BodyOk.js
+^https:\/\/api\.apphud\.com\/v1\/(subscriptions|customers)$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/BodyOk.js
 
 [mitm]
 hostname = api.apphud.com

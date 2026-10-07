@@ -3,7 +3,7 @@
  番茄助眠
 
 [rewrite_local]
-^https:\/\/www\.asmr\.red\/api\/v1\/login-new url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/fqzm.js
+^https:\/\/www\.asmr\.red\/api\/v1\/login-new url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/fqzm.js
 
 [mitm]
 hostname = www.asmr.red

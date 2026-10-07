@@ -1,7 +1,7 @@
 /*
 
 [rewrite_local]
-^https?:\/\/.*\/fast-endecode\/main\/request url script-analyze-echo-response https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/tzsp.js
+^https?:\/\/.*\/fast-endecode\/main\/request url script-analyze-echo-response https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/tzsp.js
 
 [mitm]
 hostname = api.oi2acax6vzi0.xyz

@@ -5,7 +5,7 @@
  *（QX / Surge / Loon 通用）
 
 [rewrite_local]
-^https:\/\/991\.com\/nba\.m3u url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/KDF/m3u.js
+^https:\/\/991\.com\/nba\.m3u url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/KDF/m3u.js
 
 [mitm]
 hostname = 991.com

@@ -4,7 +4,7 @@ Songsterr 7.1.0
 
 [rewrite_local]
 
-https://www.songsterr.com/webhook/appstore/sri/verify url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/itunes/songsterr.js
+https://www.songsterr.com/webhook/appstore/sri/verify url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/itunes/songsterr.js
 
 [mitm] 
 

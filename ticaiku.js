@@ -9,7 +9,7 @@
 [rewrite_local]
 
 
-https://app.txcfgl.com/api/app/user$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/ticaiku.js
+https://app.txcfgl.com/api/app/user$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/ticaiku.js
 
 [mitm] 
 

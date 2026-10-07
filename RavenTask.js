@@ -10,7 +10,7 @@
 //             - Surge / Loon:  cron "0 8 */14 * *" script-path=AppRaven.js
 // --------------------------------------------------------
 [task_local]
-0 8 */14 * * https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/AppRavenTask.js, tag=AppRaven会员账号生成
+0 8 */14 * * https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/AppRavenTask.js, tag=AppRaven会员账号生成
 
 
 */

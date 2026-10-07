@@ -20,7 +20,7 @@
  *   https://raw.githubusercontent.com/ClydeTime/BiliBili/main/boxjs/BiliBili.boxjs.json
  * 
 * [rewrite_local]
-* http://360.com/bilibili url script-analyze-echo-response https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/BiliBili/BiliBili.Modified.response.js
+* http://360.com/bilibili url script-analyze-echo-response https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/BiliBili/BiliBili.Modified.response.js
 * [mitm]
 * hostname = 360.com
 **/

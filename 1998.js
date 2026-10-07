@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-^https:\/\/.*\.1998xuexi\.com\/source-gateway\/store-web-new\/app\/(course\/getCurrCatalogue\.action|material\/getMaterialCateLog\.action|vip\/getMemberVipInfo\.action|vip\/getVipInfomationAll\.action) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/1998.js
+^https:\/\/.*\.1998xuexi\.com\/source-gateway\/store-web-new\/app\/(course\/getCurrCatalogue\.action|material\/getMaterialCateLog\.action|vip\/getMemberVipInfo\.action|vip\/getVipInfomationAll\.action) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/1998.js
 
 [mitm]
 hostname = *.1998xuexi.com, *.1998xuexi.com
@@ -22,7 +22,7 @@ try {
             "vipId": "86",
             "vipName": "永久题库会员",
             "vipType": "3",
-            "powerImage": "https://raw.githubusercontent.com/Yu9191/-/main/icon/laoliu.png",
+            "powerImage": "https://raw.githubusercontent.com/ios151/-/main/icon/laoliu.png",
             "catLog": "1",
             "buyCount": null,
             "isVip": "1",

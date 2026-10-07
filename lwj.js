@@ -3,7 +3,7 @@
  * 会员全课程
 [rewrite_local]
 
-^https:\/\/api\.fingerabc\.cn\/api\/(?:bookModule\/get\/bookModuleAsNew|lesson\/queryLessons|tagMaterial\/queryReaderList|tagMaterial\/queryTagData|product\/getCategoryProduct) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/lwj.js
+^https:\/\/api\.fingerabc\.cn\/api\/(?:bookModule\/get\/bookModuleAsNew|lesson\/queryLessons|tagMaterial\/queryReaderList|tagMaterial\/queryTagData|product\/getCategoryProduct) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/lwj.js
 
 [mitm]
 

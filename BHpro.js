@@ -8,7 +8,7 @@
 
 [rewrite_local]
 
-^https:\/\/litebhapi\.belugabh\.com\/personal_center\/(my_homepage|user_equity_status_list) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/BHpro.js
+^https:\/\/litebhapi\.belugabh\.com\/personal_center\/(my_homepage|user_equity_status_list) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/BHpro.js
 
 [mitm]
 hostname = litebhapi.belugabh.com
@@ -33,7 +33,7 @@ baby.data.poi_open = true;//是否开通poi服务
 if ($request.url.indexOf(my) != -1){
 baby.data.phone = "18888888888";
 baby.data.occupation = "总经理";
-baby.data.avatar = "https://raw.githubusercontent.com/Yu9191/-/main/A559C8EF-B4C6-4A94-8488-3D0BF36A6673.jpeg";
+baby.data.avatar = "https://raw.githubusercontent.com/ios151/-/main/A559C8EF-B4C6-4A94-8488-3D0BF36A6673.jpeg";
 baby.data.nickname = "lovebabyforever";
 
 }

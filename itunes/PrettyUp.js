@@ -4,7 +4,7 @@ PrettyUp 6.8.2
 [rewrite_local]
 
 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/itunes/PrettyUp.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/itunes/PrettyUp.js
 
 [mitm] 
 

@@ -4,7 +4,7 @@
   * [主页]-[精品课程]未解锁 可以通过其他地方进入 
 
 [rewrite_local]
-^https?:\/\/(?:h5\.|platform\.)?singerdream\.com\/(?!.*\.jpg).*$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/gzm.js
+^https?:\/\/(?:h5\.|platform\.)?singerdream\.com\/(?!.*\.jpg).*$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/gzm.js
 
 [mitm]
 hostname = h5.singerdream.com, platform.singerdream.com, singerdream.com

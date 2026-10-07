@@ -4,7 +4,7 @@
  * 解锁会员
 https://feel.wunitu.com/api/User/getUserInfo
 [rewrite_local]
-^https:\/\/feel\.wunitu\.com\/api\/User\/getUserInfo url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/feel.js
+^https:\/\/feel\.wunitu\.com\/api\/User\/getUserInfo url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/feel.js
 
 [mitm]
 hostname = feel.wunitu.com

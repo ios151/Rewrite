@@ -4,8 +4,8 @@ GTP4o
 
 [rewrite_local]
 
-https://nichousha.sjrjyffs.top/api/img/aiSketch url script-request-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/GTP4ohd.js
-https://nichousha.sjrjyffs.top/api/app/user/getCurrentInfo url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/GTP4o.js
+https://nichousha.sjrjyffs.top/api/img/aiSketch url script-request-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/GTP4ohd.js
+https://nichousha.sjrjyffs.top/api/app/user/getCurrentInfo url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/GTP4o.js
 
 [mitm]
 hostname = nichousha.sjrjyffs.top

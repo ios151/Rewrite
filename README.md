@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<a href="https://github.com/Yu9191"><img width="100" src="https://github.com/Yu9191.png" alt="Yu9191" style="border-radius:50%"></a>
+<a href="https://github.com/ios151"><img width="100" src="https://github.com/ios151.png" alt="ios151" style="border-radius:50%"></a>
 <br><br>
 
 # Rewrite
@@ -10,8 +10,8 @@
 <p>
   <a href="https://t.me/ios151"><img src="https://img.shields.io/badge/Telegram-@ios151-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="https://t.me/Jsforbaby"><img src="https://img.shields.io/badge/Channel-@Jsforbaby-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/Yu9191/Rewrite/stargazers"><img src="https://img.shields.io/github/stars/Yu9191/Rewrite?style=flat-square&logo=github" /></a>
-  <a href="https://github.com/Yu9191/Rewrite/commits/main"><img src="https://img.shields.io/github/last-commit/Yu9191/Rewrite?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/ios151/Rewrite/stargazers"><img src="https://img.shields.io/github/stars/ios151/Rewrite?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/ios151/Rewrite/commits/main"><img src="https://img.shields.io/github/last-commit/ios151/Rewrite?style=flat-square&logo=github" /></a>
 </p>
 </div>
 

@@ -3,7 +3,7 @@
   * 解锁会员
   * 卖脚本必死无疑
 [rewrite_local]
-https://paper.zjapp.xyz/api/v1/status/list url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/sj100.js
+https://paper.zjapp.xyz/api/v1/status/list url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/sj100.js
 
 [mitm]
 hostname = paper.zjapp.xyz

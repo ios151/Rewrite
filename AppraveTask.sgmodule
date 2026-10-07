@@ -8,4 +8,4 @@
 
 [Script]
 # 每周1四点运行
-AppRaven刷取 = type=cron, cronexp="0 4 * * 1", script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/AppraveTask.js, timeout=600, argument=userId={{{UserId}}}&count={{{RunCount}}}
+AppRaven刷取 = type=cron, cronexp="0 4 * * 1", script-path=https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/AppraveTask.js, timeout=600, argument=userId={{{UserId}}}&count={{{RunCount}}}

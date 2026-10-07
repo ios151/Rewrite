@@ -8,19 +8,19 @@ VIP 解锁 + 付费内容解锁 + 完整视频解锁 + 去广告 + 第三方播�
 
 **Surge / Egern**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/luolita/modules/luolita.sgmodule
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/luolita/modules/luolita.sgmodule
 
 **Quantumult X**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/luolita/modules/luolita.conf
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/luolita/modules/luolita.conf
 
 **Loon**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/luolita/modules/luolita.lpx
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/luolita/modules/luolita.lpx
 
 **BoxJS 配置面板**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/luolita/luolita.boxjs.json
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/luolita/luolita.boxjs.json
 
 > Stash / Shadowrocket 等：用 [Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) 把 `.sgmodule` 转换后订阅。
 >

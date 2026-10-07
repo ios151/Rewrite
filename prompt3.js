@@ -2,7 +2,7 @@
 Prompt3
 [rewrite_local]
 # 会员
-^https?:\/\/circle\.panic\.com\/api\/v1\/app_store\/(process_transaction\/com\.panic\.prompt\.3|subscription_status)\/?$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/prompt3.js
+^https?:\/\/circle\.panic\.com\/api\/v1\/app_store\/(process_transaction\/com\.panic\.prompt\.3|subscription_status)\/?$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/prompt3.js
 [mitm]
 hostname = circle.panic.com
 */

@@ -5,7 +5,7 @@
  * 
 
 [rewrite_local]
- ^https:\/\/carrotweather\.herokuapp\.com\/parse\/functions\/findSubscriptionsForUserId url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/carrot.js
+ ^https:\/\/carrotweather\.herokuapp\.com\/parse\/functions\/findSubscriptionsForUserId url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/carrot.js
 
 [mitm]
 hostname = carrotweather.herokuapp.com

@@ -6,7 +6,7 @@ https://www.mxs11.cc
 
 
 [rewrite_local]
-^https:\/\/www\.mxs11\.cc\/(chapter|book)\/\d+ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/mxshm.js
+^https:\/\/www\.mxs11\.cc\/(chapter|book)\/\d+ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/mxshm.js
 
 [mitm]
 hostname = www.mxs11.cc

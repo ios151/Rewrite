@@ -3,7 +3,7 @@
  * 解锁Pro终身
 
 [rewrite_local]
-https://billing.peakcloud.org/billing/2/user/me url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/peak.js
+https://billing.peakcloud.org/billing/2/user/me url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/peak.js
 
 [mitm]
 hostname = billing.peakcloud.org

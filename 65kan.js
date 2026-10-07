@@ -6,7 +6,7 @@
  * 代码未加密 有能力可以去广告
  
 [rewrite_local]
-^https://([a-zA-Z0-9-]+\.)*[a-zA-Z0-9-]+\.[a-z]{2,}(:\d+)?/(video-details/[0-9]*|api/users/[a-zA-Z0-9-_]+) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/65kan.js
+^https://([a-zA-Z0-9-]+\.)*[a-zA-Z0-9-]+\.[a-z]{2,}(:\d+)?/(video-details/[0-9]*|api/users/[a-zA-Z0-9-_]+) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/65kan.js
 ^https?://hm-img\.xuezhumall\.com/(.*/)preview\.m3u8 url 302 https://hm-img.xuezhumall.com/$1index.m3u8
 [mitm]
 hostname = *.413550.xyz, *.xuezhumall.com, *.413550.xyz:8283

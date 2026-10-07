@@ -4,9 +4,9 @@
 
 
 [rewrite_local]
-^https:\/\/(napi\.zybang\.com\/napi\/user\/userinfo|apivip\.zuoyebang\.com\/(viponline\/homework\/viptab|vipols\/composition\/main)) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/zyb.js
+^https:\/\/(napi\.zybang\.com\/napi\/user\/userinfo|apivip\.zuoyebang\.com\/(viponline\/homework\/viptab|vipols\/composition\/main)) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/zyb.js
 
-^https:\/\/(search\.zybang\.com|apivip\.zuoyebang\.com\/vipols) url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/zyb.js
+^https:\/\/(search\.zybang\.com|apivip\.zuoyebang\.com\/vipols) url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/main/zyb.js
 
 [mitm]
 hostname = napi.zybang.com, apivip.zuoyebang.com, search.zybang.com

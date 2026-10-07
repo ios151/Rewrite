@@ -3,7 +3,7 @@
 会员权益及全课程
 [rewrite_local]
 
-https:\/\/medicine-family\.meappstore\.top\/medicineModule\/api\/(users\/iosUserLogin|family\/) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/nihaixiazydq.js
+https:\/\/medicine-family\.meappstore\.top\/medicineModule\/api\/(users\/iosUserLogin|family\/) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/nihaixiazydq.js
 
 [mitm]
 hostname = medicine-family.meappstore.top

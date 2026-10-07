@@ -2,7 +2,7 @@
 
 
 [rewrite_local]
-^https?:\/\/cdn\.littlefox\.co\.kr\/contents_5\/hls\/720\/.+\/stream\.m3u8\?_=\d+ url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/LittleFox.js
+^https?:\/\/cdn\.littlefox\.co\.kr\/contents_5\/hls\/720\/.+\/stream\.m3u8\?_=\d+ url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/main/LittleFox.js
 [mitm]
 hostname = cdn.littlefox.co.kr
 

@@ -4,7 +4,7 @@
 脚本功能：标枪王者(微信小程序)
 
 [rewrite_local]
-^https?:\/\/javelin.mandrillvr.com\/api\/data\/get_game_data url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/bqwz.js
+^https?:\/\/javelin.mandrillvr.com\/api\/data\/get_game_data url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/bqwz.js
 
 [mitm]
 hostname = javelin.mandrillvr.com

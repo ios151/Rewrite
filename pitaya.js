@@ -3,7 +3,7 @@
  * 小果ai不可用
 https://api.mypitaya.com/api/userInfo
 [rewrite_local]
-^https:\/\/api\.mypitaya\.com\/api\/userInfo url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/pitaya.js
+^https:\/\/api\.mypitaya\.com\/api\/userInfo url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/pitaya.js
 
 [mitm]
 hostname = api.mypitaya.com

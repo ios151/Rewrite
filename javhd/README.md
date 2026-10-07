@@ -6,17 +6,17 @@
 
 ### Quantumult X
 ```
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/javhd/modules/javhd.conf
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/javhd/modules/javhd.conf
 ```
 
 ### Loon
 ```
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/javhd/modules/javhd.lpx
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/javhd/modules/javhd.lpx
 ```
 
 ### Surge
 ```
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/javhd/modules/javhd.sgmodule
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/javhd/modules/javhd.sgmodule
 ```
 
 ## MITM

@@ -3,7 +3,7 @@
 解锁会员权益
 
 [rewrite_local]
-^https:\/\/(app|api)\.helixlife\.cn\/api\/v1\/(user\/(users\/profile|overviews)|edu\/(trainings|courses|meeting_lives)|public\/search) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Jieluoxuan.js
+^https:\/\/(app|api)\.helixlife\.cn\/api\/v1\/(user\/(users\/profile|overviews)|edu\/(trainings|courses|meeting_lives)|public\/search) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/Jieluoxuan.js
 
 [mitm]
 hostname = *.helixlife.cn

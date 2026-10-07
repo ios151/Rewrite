@@ -2,7 +2,7 @@
 forest 
 闲鱼卖脚本司马
 [rewrite_local]
-^https:\/\/forest-api\.upwardsware\.com\/user\/users\/\d+\/service-levels\/status\?.*$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/forest.js
+^https:\/\/forest-api\.upwardsware\.com\/user\/users\/\d+\/service-levels\/status\?.*$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/forest.js
 
 [mitm]
 hostname = forest-api.upwardsware.com

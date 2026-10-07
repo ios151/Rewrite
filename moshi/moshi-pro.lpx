@@ -4,7 +4,7 @@
 
 
 [Script]
-http-request ^https:\/\/api\.getmoshi\.app\/api\/v1\/licenses\/(?:me|activate|[^\/]+\/devices)(?:[\/?#]|$) script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/moshi/moshi-pro.js, requires-body=false, timeout=30, tag=moshi-pro
+http-request ^https:\/\/api\.getmoshi\.app\/api\/v1\/licenses\/(?:me|activate|[^\/]+\/devices)(?:[\/?#]|$) script-path=https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/moshi/moshi-pro.js, requires-body=false, timeout=30, tag=moshi-pro
 
 [MITM]
 hostname = api.getmoshi.app

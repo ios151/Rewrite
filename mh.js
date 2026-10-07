@@ -5,7 +5,7 @@
 4.节点和脚本仅测试qx
 
 [rewrite_local]
-https://www.zju.edu.cn url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/mh.js
+https://www.zju.edu.cn url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/mh.js
 
 [mitm]
 hostname = www.zju.edu.cn, momu.coocs.lol, 172.247.127.105:10002

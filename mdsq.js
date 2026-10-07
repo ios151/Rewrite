@@ -12,7 +12,7 @@
  如需更改变量 先将脚本下载到本地然后编辑
  ******************************
 [rewrite_local]
-https://d1skbu98kuldnf.cloudfront.net/api/app/media/play url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/mdsq.js
+https://d1skbu98kuldnf.cloudfront.net/api/app/media/play url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/mdsq.js
 
 [mitm]
 hostname = *.cloudfront.net

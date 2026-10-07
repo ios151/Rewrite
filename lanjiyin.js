@@ -6,7 +6,7 @@
  * 其他代理工具可用
  
 [rewrite_local]
-^https?:\/\/(?:edu|user)\.lezaitizhong\.com url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/lanjiyin.js
+^https?:\/\/(?:edu|user)\.lezaitizhong\.com url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/lanjiyin.js
 [mitm]
 hostname = *.lezaitizhong.com
 

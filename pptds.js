@@ -3,7 +3,7 @@
  * 获取pdf下载链接
 
 [rewrite_local]
-^https:\/\/pptdashi\.kuoliang\.cn\/package\/ppt\/get(All|Random)\?.* url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/pptds.js
+^https:\/\/pptdashi\.kuoliang\.cn\/package\/ppt\/get(All|Random)\?.* url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/pptds.js
 
 [mitm]
 hostname = pptdashi.kuoliang.cn

@@ -4,9 +4,9 @@
 感谢@苍井灰灰 AES源代码
 
 [rewrite_local]
-#^https?:\/\/api\.tumukaoyan\.com\/api\/headimg_list\/GetListByAll url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/kaoyanxcx.js
+#^https?:\/\/api\.tumukaoyan\.com\/api\/headimg_list\/GetListByAll url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/kaoyanxcx.js
 
-^https?:\/\/api\.tumukaoyan\.com\/api\/wx\/CheckCodeV url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/kaoyanxcx.js
+^https?:\/\/api\.tumukaoyan\.com\/api\/wx\/CheckCodeV url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/kaoyanxcx.js
 
 
 [mitm]

@@ -1,10 +1,10 @@
 /*
  * 看东方
  * 需要搭配boxjs使用 具体使用教程自行查
- * bojxs地址https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/boxjs.json
+ * bojxs地址https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/boxjs.json
 
 [rewrite_local]
-https:\/\/bp-api\.bestv\.com\.cn\/cms\/api\/(live\/studio\/id\/v4|c\/player\/common) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/kdf.js
+https:\/\/bp-api\.bestv\.com\.cn\/cms\/api\/(live\/studio\/id\/v4|c\/player\/common) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/kdf.js
 
 [mitm]
 hostname = bp-api.bestv.com.cn

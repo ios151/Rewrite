@@ -1,8 +1,8 @@
 /**
  * @name 黄果短剧去广告
  * @description 去除黄果短剧 (huangguoai.com) 全站广告
- * @author Yu9191 Rewrite
- * @homepage https://github.com/Yu9191/Rewrite
+ * @author ios151 Rewrite
+ * @homepage https://github.com/ios151/Rewrite
  * @date 2026-09-02
  *
  * @supported Surge / Loon / Quantumult X / Stash

@@ -4,8 +4,8 @@
  * 下载地址：商店搜
  * 
 [rewrite_local]
-https://apiv2.vivipic.com/get-tx-info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/genpix.js
-https://apiv2.vivipic.com/gen-image-v3 url script-request-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/genpix.js
+https://apiv2.vivipic.com/get-tx-info url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/genpix.js
+https://apiv2.vivipic.com/gen-image-v3 url script-request-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/genpix.js
 [mitm]
 hostname = apiv2.vivipic.com
 */

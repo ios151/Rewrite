@@ -113,7 +113,7 @@
                 "https://raw.githubusercontent.com/sE7En0908/Icon/refs/heads/master/1818.png",
                 "https://raw.githubusercontent.com/sE7En0908/Icon/refs/heads/master/GitHub.png"
             ],
-            "script": "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/pear.js"
+            "script": "https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/pear.js"
         },
         {
             "id": "InsavSettings",
@@ -254,9 +254,9 @@
             "author": "@Jsforbaby",
             "repo": "https://t.me/GithubYu9191",
             "icons": [
-                "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/insav-tv/modules/insav.png"
+                "https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/insav-tv/modules/insav.png"
             ],
-            "script": "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/insav.js"
+            "script": "https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/insav.js"
         },
         {
             "id": "QiyouShequSettings",
@@ -412,12 +412,12 @@
                     "desc": "脚本日志输出级别（影响代理工具的日志面板）"
                 }
             ],
-            "author": "Yu9191 Rewrite",
-            "repo": "https://github.com/Yu9191/Rewrite",
+            "author": "ios151 Rewrite",
+            "repo": "https://github.com/ios151/Rewrite",
             "icons": [
-                "https://raw.githubusercontent.com/Yu9191/-/main/qiyou.png"
+                "https://raw.githubusercontent.com/ios151/-/main/qiyou.png"
             ],
-            "script": "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/qiyoushe/dist/qiyoushequ.js"
+            "script": "https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/qiyoushe/dist/qiyoushequ.js"
         },
         {
             "id": "PorntubeSettings",
@@ -573,12 +573,12 @@
                     "desc": "关闭后仅修改接口响应，不发送播放器跳转通知"
                 }
             ],
-            "author": "Yu9191 Rewrite",
-            "repo": "https://github.com/Yu9191/Rewrite",
+            "author": "ios151 Rewrite",
+            "repo": "https://github.com/ios151/Rewrite",
             "icons": [
                 "https://raw.githubusercontent.com/fishdown/Icon/master/app/porntube.png"
             ],
-            "script": "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/porntube/dist/porntube.js"
+            "script": "https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/porntube/dist/porntube.js"
         }
     ]
 }

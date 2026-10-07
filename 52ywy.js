@@ -3,7 +3,7 @@
  2026-05-06
 
 [rewrite_local]
-^https:\/\/miniapp2\.52ywy\.com\/(ywyminiappbot\/(getLatest|getLatestAll|getCategoryVideos|getSearch|series|movies|tv|av|getbloger)|player\/getPlayer)(\?|$) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/52ywy.js
+^https:\/\/miniapp2\.52ywy\.com\/(ywyminiappbot\/(getLatest|getLatestAll|getCategoryVideos|getSearch|series|movies|tv|av|getbloger)|player\/getPlayer)(\?|$) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/52ywy.js
 
 [mitm]
 hostname = miniapp2.52ywy.com

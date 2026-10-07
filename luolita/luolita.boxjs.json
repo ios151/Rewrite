@@ -1,9 +1,9 @@
 {
     "id": "Luolita.app",
     "name": "洛丽塔",
-    "author": "Yu9191 Rewrite",
-    "icon": "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/luolita/modules/luolita.png",
-    "repo": "https://github.com/Yu9191/Rewrite",
+    "author": "ios151 Rewrite",
+    "icon": "https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/luolita/modules/luolita.png",
+    "repo": "https://github.com/ios151/Rewrite",
     "apps": [
         {
             "id": "LuolitaSettings",
@@ -87,12 +87,12 @@
                     "desc": "脚本日志输出级别（影响代理工具的日志面板）"
                 }
             ],
-            "author": "Yu9191 Rewrite",
-            "repo": "https://github.com/Yu9191/Rewrite",
+            "author": "ios151 Rewrite",
+            "repo": "https://github.com/ios151/Rewrite",
             "icons": [
-                "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/luolita/modules/luolita.png"
+                "https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/luolita/modules/luolita.png"
             ],
-            "script": "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/luolita/dist/luolita.js"
+            "script": "https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/luolita/dist/luolita.js"
         }
     ]
 }

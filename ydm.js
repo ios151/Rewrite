@@ -8,21 +8,21 @@
  * 2025-07-06 修复两个接口
 [rewrite_local]
 # 视频
-https:\/\/[^\/]+\.cloudfront\.net\/api\/m3u8\/decode\/authPath url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/ydm2.js
+https:\/\/[^\/]+\.cloudfront\.net\/api\/m3u8\/decode\/authPath url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/ydm2.js
 # 会员
-^https:\/\/(?:[a-zA-Z0-9-]+\.cloudfront\.net|snerbnew\.pxyzjmspfl\.work)(?::\d+)?\/api\/(?:video\/getVideoById|user\/base\/info|community\/dynamic\/dynamicInfo) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/ydm.js
+^https:\/\/(?:[a-zA-Z0-9-]+\.cloudfront\.net|snerbnew\.pxyzjmspfl\.work)(?::\d+)?\/api\/(?:video\/getVideoById|user\/base\/info|community\/dynamic\/dynamicInfo) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/ydm.js
 # cloudfront广告 
 ^https?:\/\/(?:[a-z0-9-]+\.)?cloudfront\.net\/api\/(?:sys\/partner\/list|activity\/indexActs|sys\/advertisement\/list|sys\/getImgAndVideoCdnList|aibox\/entranceConfig) url reject
 # 三年二班广告
 ^https?:\/\/snerbnew\.pxyzjmspfl\.work\/api\/(?:sys\/partner\/list|activity\/indexActs|sys\/advertisement\/list|sys\/getImgAndVideoCdnList|aibox\/entranceConfig) url reject
 # 三年二班 
-^https:\/\/snerbnew\.pxyzjmspfl\.work(?::\d+)?\/api\/m3u8\/decode\/authPath url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/ydm2.js
+^https:\/\/snerbnew\.pxyzjmspfl\.work(?::\d+)?\/api\/m3u8\/decode\/authPath url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/ydm2.js
 # gy2025
-^https:\/\/gy2025\.rnuozrryfq\.work(?::\d+)?\/api\/m3u8\/decode\/authPath url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/ydm2.js
+^https:\/\/gy2025\.rnuozrryfq\.work(?::\d+)?\/api\/m3u8\/decode\/authPath url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/ydm2.js
 # gy2025
-^https:\/\/gy2025\.rnuozrryfq\.work(?::\d+)?\/api\/(?:video\/getVideoById|user\/base\/info|community\/dynamic\/dynamicInfo) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/ydm.js
-^https:\/\/aw0702\.x5t5d5a4c\.work(?::\d+)?\/api\/(?:video\/getVideoById|user\/base\/info|community\/dynamic\/dynamicInfo) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/ydm.js
-^https:\/\/aw0702\.x5t5d5a4c\.work(?::\d+)?\/api\/m3u8\/decode\/authPath url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/ydm2.js
+^https:\/\/gy2025\.rnuozrryfq\.work(?::\d+)?\/api\/(?:video\/getVideoById|user\/base\/info|community\/dynamic\/dynamicInfo) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/ydm.js
+^https:\/\/aw0702\.x5t5d5a4c\.work(?::\d+)?\/api\/(?:video\/getVideoById|user\/base\/info|community\/dynamic\/dynamicInfo) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/ydm.js
+^https:\/\/aw0702\.x5t5d5a4c\.work(?::\d+)?\/api\/m3u8\/decode\/authPath url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/ydm2.js
 ^https?:\/\/aw0702\.x5t5d5a4c\.work\/api\/(?:sys\/partner\/list|activity\/indexActs|sys\/advertisement\/list|sys\/getImgAndVideoCdnList|aibox\/entranceConfig) url reject
 [mitm]
 hostname = *.cloudfront.net, snerbnew.pxyzjmspfl.work, snerbnew.pxyzjmspfl.work:51999, *.rnuozrryfq.work, aw0702.x5t5d5a4c.work

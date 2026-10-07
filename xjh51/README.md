@@ -7,13 +7,13 @@
 ## 订阅地址
 
 **Surge**
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/xjh51/modules/xjh51.sgmodule
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/xjh51/modules/xjh51.sgmodule
 
 **Quantumult X**
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/xjh51/modules/xjh51.conf
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/xjh51/modules/xjh51.conf
 
 **Loon**
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/xjh51/modules/xjh51.lpx
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/xjh51/modules/xjh51.lpx
 
 > Egern 使用 Surge 模块链接，其他代理工具用 ScriptHub 转换
 

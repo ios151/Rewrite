@@ -4,7 +4,7 @@
   * 解锁会员
 
 [rewrite_local]
-^https:\/\/api\.v2\.bookrclass\.com\/api\/mobile\/(users\/me|children) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/BookRclass.js
+^https:\/\/api\.v2\.bookrclass\.com\/api\/mobile\/(users\/me|children) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/BookRclass.js
 
 [mitm]
 hostname = api.v2.bookrclass.com

@@ -2,7 +2,7 @@
  *
 
 [rewrite_local]
-xhlld.*\.shop\/view\/getVideoInfo\/\d+ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/xiaohuli.js
+xhlld.*\.shop\/view\/getVideoInfo\/\d+ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/xiaohuli.js
 #广告
 xhlld.*\.shop\/view\/(adList|getVideoInfoAdList) url reject
 

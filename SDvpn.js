@@ -5,7 +5,7 @@
 
 [rewrite_local]
 
-http://(ga-bp12jenvgkuxtp83g76ya.aliyunga0019.com|(roudie.cn|saidun.fun))/saidun/version2/v2_node_protocol url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/SDvpn.js
+http://(ga-bp12jenvgkuxtp83g76ya.aliyunga0019.com|(roudie.cn|saidun.fun))/saidun/version2/v2_node_protocol url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/SDvpn.js
 [mitm]
 
 hostname = ga-bp12jenvgkuxtp83g76ya.aliyunga0019.com,roudie.cn,saidun.fun

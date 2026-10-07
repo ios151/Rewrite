@@ -2,7 +2,7 @@
   魔核
 
 [rewrite_local]
-^https:\/\/lab\.shadowbox\.top\/ab url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/mohe.js
+^https:\/\/lab\.shadowbox\.top\/ab url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/mohe.js
 ^https:\/\/lab\.shadowbox\.top\/ab\/apppage\/launch$ url reject
 [mitm]
 hostname = lab.shadowbox.top

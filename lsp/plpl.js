@@ -5,7 +5,7 @@
  * 需要安装(Senplayer播放器）
  * 广告未拦截（懒得写了）
 [rewrite_local]
-https:\/\/(?:\S+\/video\/info\/.*\?token=\S+) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/lsp/plpl.js
+https:\/\/(?:\S+\/video\/info\/.*\?token=\S+) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/lsp/plpl.js
 
 [mitm]
 hostname = apiaws.*.com, apiaws.*.cn, *apiaws*

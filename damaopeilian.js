@@ -3,8 +3,8 @@
  * 大猫ai练琴
 
 [rewrite_local]
-^https:\/\/app-api\.damaopeilian\.com\/bigcat-app-api\/v1\/(index\/assistantHelp|index\/appVerticalIndex|book\/musicList|book\/bookList) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/damaopeilian.js
-https://app-api.damaopeilian.com/bigcat-app-api/v1/class/musicDetail url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/damaopeilian2.js
+^https:\/\/app-api\.damaopeilian\.com\/bigcat-app-api\/v1\/(index\/assistantHelp|index\/appVerticalIndex|book\/musicList|book\/bookList) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/damaopeilian.js
+https://app-api.damaopeilian.com/bigcat-app-api/v1/class/musicDetail url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/damaopeilian2.js
 [mitm]
 hostname = app-api.damaopeilian.com
 

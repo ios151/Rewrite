@@ -4,7 +4,7 @@
  * 解锁会员
  * 
 [rewrite_local]
-^https?:\/\/www\.nobook\.com\/passport\/v5\/login\/(check|phone) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/NBshiyanshi.js
+^https?:\/\/www\.nobook\.com\/passport\/v5\/login\/(check|phone) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/NBshiyanshi.js
 
 [mitm]
 hostname = www.nobook.com

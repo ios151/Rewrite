@@ -22,9 +22,9 @@
 
 2024.1.10 正则：^https:\/\/[^\/]*\.xgfipub\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8 
 
-> [Quantumult X](https://raw.githubusercontent.com/Yu9191/Rewrite/main/m3u8/m3u8.conf)
+> [Quantumult X](https://raw.githubusercontent.com/ios151/Rewrite/main/m3u8/m3u8.conf)
 
-> [suger](https://raw.githubusercontent.com/Yu9191/Rewrite/main/m3u8/m3u8.sgmodule)
+> [suger](https://raw.githubusercontent.com/ios151/Rewrite/main/m3u8/m3u8.sgmodule)
 
 > [其他代理工具请用ScriptHub转换](https://github.com/Script-Hub-Org/Script-Hub)
 

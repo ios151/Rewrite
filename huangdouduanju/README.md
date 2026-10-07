@@ -6,15 +6,15 @@ VIP 解锁 + 去广告 + 完整播放。Surge / Loon / Stash / Quantumult X 通�
 
 **Surge / Egern**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/huangdouduanju/modules/huangdou.sgmodule
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/huangdouduanju/modules/huangdou.sgmodule
 
 **Loon**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/huangdouduanju/modules/huangdou.lpx
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/huangdouduanju/modules/huangdou.lpx
 
 **Quantumult X**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/huangdouduanju/huangdou.snippet
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/huangdouduanju/huangdou.snippet
 
 ## 功能
 

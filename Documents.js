@@ -2,7 +2,7 @@
 Documents
 
 [rewrite_local]
-https://license.pdfexpert.com/api/2.0/documents/subscription/refresh url script-request-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Documents.js
+https://license.pdfexpert.com/api/2.0/documents/subscription/refresh url script-request-body https://raw.githubusercontent.com/ios151/Rewrite/main/Documents.js
 [mitm]
 hostname = *.pdfexpert.com
 

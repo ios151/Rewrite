@@ -6,7 +6,7 @@
  * 2026-08-09
 
 [rewrite_local]
-^https?:\/\/(www\.)?haijiao\.com\/api\/(attachment|topic\/\d+|banner\/banner_list) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/haijiao.js
+^https?:\/\/(www\.)?haijiao\.com\/api\/(attachment|topic\/\d+|banner\/banner_list) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/haijiao.js
 
 [mitm]
 hostname = haijiao.com,*.haijiao.com

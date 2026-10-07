@@ -2,7 +2,7 @@
   "id": "scheme",
   "name": "URLscheme",
   "author": "@ios151",
-  "icon": "https://raw.githubusercontent.com/Yu9191/-/main/dingdangmao.jpg",
+  "icon": "https://raw.githubusercontent.com/ios151/-/main/dingdangmao.jpg",
   "repo": "https://t.me/Jsforbaby",
   "apps": [
     {
@@ -36,10 +36,10 @@
         }
       ],
       "author": "@baby",
-      "script": "https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/kdf.js",
+      "script": "https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/kdf.js",
       "icons": [
-        "https://raw.githubusercontent.com/Yu9191/-/main/dingdangmao.jpg",
-        "https://raw.githubusercontent.com/Yu9191/-/main/dingdangmao.jpg"
+        "https://raw.githubusercontent.com/ios151/-/main/dingdangmao.jpg",
+        "https://raw.githubusercontent.com/ios151/-/main/dingdangmao.jpg"
       ]
     }
   ]

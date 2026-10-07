@@ -2,7 +2,7 @@
 ABCLearning
 美国原版A-Z分级阅读
 [rewrite_local]
-https:\/\/ios\.abc-learning\.net\/api\/v.*\/learning\/(book\/list|home\/layout|cartoon\/album\/list|scene-dialogue\/list) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/ABCLearning.js
+https:\/\/ios\.abc-learning\.net\/api\/v.*\/learning\/(book\/list|home\/layout|cartoon\/album\/list|scene-dialogue\/list) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/ABCLearning.js
 [mitm]
 hostname = ios.abc-learning.net
 

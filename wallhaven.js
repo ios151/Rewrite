@@ -3,7 +3,7 @@
  * 壁纸获取
 
 [rewrite_local]
-^https:\/\/worker\.elsonwx\.com\/api\/v1 url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/wallhaven.js
+^https:\/\/worker\.elsonwx\.com\/api\/v1 url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/wallhaven.js
 
 [mitm]
 hostname = worker.elsonwx.com

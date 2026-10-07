@@ -1,8 +1,8 @@
 /*
 
 [rewrite_local]
-^https://super\.toppps\.com/app-api/v(1|3)/(toppps/(live/getLiveSpaceDetailsV|products)|blueMain) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/TOPlt.js
-^https://mpv\.videocc\.net/.*\.mp4 url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/TOPlt.js
+^https://super\.toppps\.com/app-api/v(1|3)/(toppps/(live/getLiveSpaceDetailsV|products)|blueMain) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/TOPlt.js
+^https://mpv\.videocc\.net/.*\.mp4 url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/TOPlt.js
 
 [mitm]
 hostname = super.toppps.com, mpv.videocc.net

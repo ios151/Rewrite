@@ -5,13 +5,13 @@ VIP 内容自动解锁 + 页面清理。
 ## 订阅地址
 
 **Surge**
-`https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/huanyu/modules/huanyu.sgmodule`
+`https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/huanyu/modules/huanyu.sgmodule`
 
 **Quantumult X**
-`https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/huanyu/modules/huanyu.conf`
+`https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/huanyu/modules/huanyu.conf`
 
 **Loon**
-`https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/huanyu/modules/huanyu.lpx`
+`https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/huanyu/modules/huanyu.lpx`
 
 > Shadowrocket / Egern 用 Surge 链接；stash 等可通过 ScriptHub 转换。
 

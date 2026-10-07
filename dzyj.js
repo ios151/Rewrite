@@ -1,7 +1,7 @@
 /*
 app：地址预警
 [rewrite_local]
-https://mobile-new.chinaeew.cn/v1/order/apple/vip url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/dzyj.js
+https://mobile-new.chinaeew.cn/v1/order/apple/vip url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/dzyj.js
 [mitm]
 hostname = mobile-new.chinaeew.cn
 */

@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-^https?:\/\/api\.qonversion\.io\/v1\/user\/init$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/sgbl.js
+^https?:\/\/api\.qonversion\.io\/v1\/user\/init$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/sgbl.js
 
 [mitm]
 hostname = api.qonversion.io

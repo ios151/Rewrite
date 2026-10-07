@@ -2,7 +2,7 @@
  * 超级应用锁
 
 [rewrite_local]
-^https:\/\/api\.safeapp\.studio\/super-app-lock\/member\/info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/super.js
+^https:\/\/api\.safeapp\.studio\/super-app-lock\/member\/info url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/super.js
 
 [mitm]
 hostname = api.safeapp.studio

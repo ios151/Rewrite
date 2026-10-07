@@ -6,25 +6,25 @@ Simply Sing	唱歌和声乐训练	sing.joytunes.com
 Simply Draw	绘画和素描基础	draw-accounts.joytunes.com
 [rewrite_local]
 # Simply Piano (alicdn.joytunescn.com)
-^https:\/\/alicdn\.joytunescn\.com\/server\/asla\/accounts\/accountAuthenticate$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
-https://asla.joytunes.com/server/asla/accounts/accountAuthenticate url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
-^https:\/\/alicdn\.joytunescn\.com\/server\/asla\/accounts\/getAppleSubscriptionGroupInfo$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
+^https:\/\/alicdn\.joytunescn\.com\/server\/asla\/accounts\/accountAuthenticate$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
+https://asla.joytunes.com/server/asla/accounts/accountAuthenticate url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
+^https:\/\/alicdn\.joytunescn\.com\/server\/asla\/accounts\/getAppleSubscriptionGroupInfo$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
 
 # Simply Guitar (guitaralicdn.joytunescn.com)
-^https:\/\/guitaralicdn\.joytunescn\.com\/server\/accounts\/accountAuthenticate$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
-^https:\/\/guitaralicdn\.joytunescn\.com\/server\/accounts\/accountAuthenticateForAutoLogin$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
-^https:\/\/guitaralicdn\.joytunescn\.com\/server\/accounts\/accountSyncProgress$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
+^https:\/\/guitaralicdn\.joytunescn\.com\/server\/accounts\/accountAuthenticate$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
+^https:\/\/guitaralicdn\.joytunescn\.com\/server\/accounts\/accountAuthenticateForAutoLogin$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
+^https:\/\/guitaralicdn\.joytunescn\.com\/server\/accounts\/accountSyncProgress$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
 
 # Simply Sing (sing.joytunes.com)
-^https:\/\/sing\.joytunes\.com\/server\/accounts\/authenticate$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
-^https:\/\/sing\.joytunes\.com\/server\/accounts\/syncProgress$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
+^https:\/\/sing\.joytunes\.com\/server\/accounts\/authenticate$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
+^https:\/\/sing\.joytunes\.com\/server\/accounts\/syncProgress$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
 
 # Simply Draw (draw-accounts.joytunes.com)
-^https:\/\/draw-accounts\.joytunes\.com\/server\/accounts\/authenticate$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
-^https:\/\/draw-accounts\.joytunes\.com\/server\/accounts\/syncProgress$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
+^https:\/\/draw-accounts\.joytunes\.com\/server\/accounts\/authenticate$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
+^https:\/\/draw-accounts\.joytunes\.com\/server\/accounts\/syncProgress$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
 
 # Intercom 客服系统 (fjfoh75b-ios.mobile-messenger.intercom.com)
-^https:\/\/fjfoh75b-ios\.mobile-messenger\.intercom\.com\/messenger\/mobile\/users$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/simplypiano.js
+^https:\/\/fjfoh75b-ios\.mobile-messenger\.intercom\.com\/messenger\/mobile\/users$ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/simplypiano.js
 [mitm]
 hostname = alicdn.joytunescn.com, guitaralicdn.joytunescn.com, sing.joytunes.com, draw-accounts.joytunes.com, fjfoh75b-ios.mobile-messenger.intercom.com
 */

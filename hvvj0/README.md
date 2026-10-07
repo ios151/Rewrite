@@ -13,13 +13,13 @@
 ### Surge 模块
 
 ```
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/hvvj0/fi11.sgmodule
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/hvvj0/fi11.sgmodule
 ```
 
 ### Loon 插件
 
 ```
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/hvvj0/fi11.lpx
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/hvvj0/fi11.lpx
 ```
 
 ### Quantumult X
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/hvvj0/fi11.lpx
 配置文件 → 重写 → 引用：
 
 ```
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/hvvj0/fi11.snippet
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/hvvj0/fi11.snippet
 ```
 
 ## MITM 主机

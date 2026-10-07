@@ -2,7 +2,7 @@
  * 影优尽优
 
 [rewrite_local]
-https://api.douyinggongchang.com/v1 url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/yyjy1.js
+https://api.douyinggongchang.com/v1 url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/yyjy1.js
 
 
 [mitm]

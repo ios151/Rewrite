@@ -5,7 +5,7 @@
  * 会员优化
 
 [rewrite_local]
-http://api.528529.com/apple_product/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/yyfysq.js
+http://api.528529.com/apple_product/ url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/yyfysq.js
 
 */
 

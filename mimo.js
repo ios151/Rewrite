@@ -3,7 +3,7 @@
 https://api.getmimo.com/v1/subscriptions
 
 [rewrite_local]
-^https:\/\/api\.getmimo\.com\/v1\/subscriptions url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/mimo.js
+^https:\/\/api\.getmimo\.com\/v1\/subscriptions url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/mimo.js
 
 [mitm]
 hostname = api.getmimo.com

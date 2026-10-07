@@ -10,15 +10,15 @@ API 解密改写 + 前端伪登录 + 去广告。Surge / Loon / Stash / Quantumu
 
 **Surge / Egern**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/porntube/modules/porntube.sgmodule
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/porntube/modules/porntube.sgmodule
 
 **Quantumult X**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/porntube/modules/porntube.conf
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/porntube/modules/porntube.conf
 
 **Loon**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/porntube/modules/porntube.lpx
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/porntube/modules/porntube.lpx
 
 > Stash / Shadowrocket 等：用 [Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) 把 `.sgmodule` 转换后订阅。
 
@@ -63,7 +63,7 @@ chinesebdsm.* (前端用 includes 匹配前缀)
 
 BoxJS 订阅链接：
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/pear.boxjs.json
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/pear.boxjs.json
 
 | Key | 含义 |
 | --- | --- |
@@ -106,8 +106,8 @@ npm run build
 产物 `dist/porntube.js` 与 `dist/porntube-frontend.js` 直接被 `script-path` 引用：
 
 ```text
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/porntube/dist/porntube.js
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/porntube/dist/porntube-frontend.js
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/porntube/dist/porntube.js
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/porntube/dist/porntube-frontend.js
 ```
 
 </details>

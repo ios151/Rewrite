@@ -7,7 +7,7 @@
 
 
 [rewrite_local]
-https:\/\/gateway\.chaojitiku\.com\/h5\/(goods\/goodsInfo\/queryUserPayGoods|question\/testing\/getAppInfo) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/kaoyaoshi.js
+https:\/\/gateway\.chaojitiku\.com\/h5\/(goods\/goodsInfo\/queryUserPayGoods|question\/testing\/getAppInfo) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/kaoyaoshi.js
 
 [mitm]
 hostname = gateway.chaojitiku.com

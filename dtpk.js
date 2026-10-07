@@ -17,7 +17,7 @@
 使用声明：此脚本仅供学习与交流，请在下载使用24小时内删除！请勿在中国大陆转载与贩卖！
 *******************************
 [rewrite_local]
-^https?:\/\/dtpkwx-prod-web\.gxpan\.cn\/api\/user\/user_other_save_read url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/dtpk.js
+^https?:\/\/dtpkwx-prod-web\.gxpan\.cn\/api\/user\/user_other_save_read url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/dtpk.js
 
 [mitm]
 hostname = dtpkwx-prod-web.gxpan.cn

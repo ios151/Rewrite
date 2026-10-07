@@ -4,7 +4,7 @@
  * 只测试surge
 [rewrite_local]
 
-^http:\/\/(java|php)-api\.super-yx\.com url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/yxpl.js
+^http:\/\/(java|php)-api\.super-yx\.com url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/main/yxpl.js
 
 
 [mitm]

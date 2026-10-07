@@ -2,7 +2,7 @@
  * 插画世界
  * 解锁会员和开屏广告
 [rewrite_local]
-^https:\/\/api2\.vilipix\.com\/api\/v1\/user\/current url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/chsj.js
+^https:\/\/api2\.vilipix\.com\/api\/v1\/user\/current url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/chsj.js
 
 [filter_local]
 host, *.adukwai.com, reject

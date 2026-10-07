@@ -4,7 +4,7 @@
  * 先登录
 [rewrite_local]
 
-http://106.54.2.168/emmoDiary/user/getUser url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/emmo.js
+http://106.54.2.168/emmoDiary/user/getUser url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/emmo.js
 
 
 

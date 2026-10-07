@@ -6,15 +6,15 @@
 
 **Surge / Egern**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/huangguoduanju/modules/huangguo.sgmodule
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/huangguoduanju/modules/huangguo.sgmodule
 
 **Loon**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/huangguoduanju/modules/huangguo.lpx
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/huangguoduanju/modules/huangguo.lpx
 
 **Quantumult X / Stash**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/huangguoduanju/huangguo.snippet
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/huangguoduanju/huangguo.snippet
 
 ## 功能
 

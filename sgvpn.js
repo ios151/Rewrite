@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-http:\/\/.*\.aliyunga0019\.com\/yunbao\/curnd url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/sgvpn.js
+http:\/\/.*\.aliyunga0019\.com\/yunbao\/curnd url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/sgvpn.js
 
 [mitm]
 

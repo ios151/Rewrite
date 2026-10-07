@@ -8,7 +8,7 @@ if (headers.hasOwnProperty("x-device-id") || headers.hasOwnProperty("X-Device-ID
     if (!notify || notify != url) {
       $.setdata(url, "m3u8");
       const senPlayerUrl = "SenPlayer://x-callback-url/play?url=" + encodeURIComponent(url),
-        mediaUrl = "https://raw.githubusercontent.com/Yu9191/-/main/dingdangmao.jpg";
+        mediaUrl = "https://raw.githubusercontent.com/ios151/-/main/dingdangmao.jpg";
 
       $.msg("获取成功", "请安装SenPlayer播放器", "已安装请忽略", {
         "open-url": senPlayerUrl,

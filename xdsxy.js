@@ -2,7 +2,7 @@
  * 行动商学院
 
 [rewrite_local]
-https://api.jiaodao.com url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/xdsxy.js
+https://api.jiaodao.com url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/xdsxy.js
 
 [mitm]
 hostname = api.jiaodao.com

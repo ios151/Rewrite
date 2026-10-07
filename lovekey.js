@@ -4,13 +4,13 @@
 支持1.8.2版本
 [rewrite_local]
 # 聊天
-https://sea.api.lovekeyboard.com/v1/chat/keyboard-stream-msg url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/lovekey.js
+https://sea.api.lovekeyboard.com/v1/chat/keyboard-stream-msg url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/lovekey.js
 # 开场白
-https://sea.api.lovekeyboard.com/v1/chat/keyboard-ow-msg url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/lovekey.js
+https://sea.api.lovekeyboard.com/v1/chat/keyboard-ow-msg url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/lovekey.js
 # 超级对话
-https://sea.api.lovekeyboard.com/v1/chat/stream_super_msg url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/lovekey.js
+https://sea.api.lovekeyboard.com/v1/chat/stream_super_msg url script-request-header https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/lovekey.js
 
-https://sea.api.lovekeyboard.com/v2/account url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/lovekey.js
+https://sea.api.lovekeyboard.com/v2/account url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/lovekey.js
  
 [mitm]
 hostname = sea.api.lovekeyboard.com

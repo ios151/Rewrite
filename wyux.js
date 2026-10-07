@@ -3,7 +3,7 @@
  * 外研u学
 
 [rewrite_local]
-https?:\/\/(www\.unischool\.cn\/api\/(student\/v1\/(course_template\/goods\/query|goods\/album\/detail|course_template\/group\/query|vip\/my\/card\/list|user\/area\/book_detail|goods\/real\/detail)|common\/v1\/account\/user\/student\/info)|h5\.mailejifen\.com\/site\/get-index).* url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/wyux.js
+https?:\/\/(www\.unischool\.cn\/api\/(student\/v1\/(course_template\/goods\/query|goods\/album\/detail|course_template\/group\/query|vip\/my\/card\/list|user\/area\/book_detail|goods\/real\/detail)|common\/v1\/account\/user\/student\/info)|h5\.mailejifen\.com\/site\/get-index).* url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/wyux.js
 
 [mitm]
 hostname = www.unischool.cn, h5.mailejifen.com

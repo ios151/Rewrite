@@ -4,7 +4,7 @@
  * 付费的需要密码 可以TG联系我获得密码
  * 
 [rewrite_local]
-^https:\/\/parseapi\.handyapp\.(cn|io)\/parse\/classes\/(Theme|Discover|ExploreBanner|StandbyPromote) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Handy.js
+^https:\/\/parseapi\.handyapp\.(cn|io)\/parse\/classes\/(Theme|Discover|ExploreBanner|StandbyPromote) url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/Handy.js
 
 [mitm]
 hostname = parseapi.handyapp.*

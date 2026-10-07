@@ -1,7 +1,7 @@
 /*
 小明计算器
 [rewrite_local]
-^http:\/\/jsq\.mingcalc\.cn\/XMGetMeCount\.ashx url script-analyze-echo-response https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/xmjsq.js
+^http:\/\/jsq\.mingcalc\.cn\/XMGetMeCount\.ashx url script-analyze-echo-response https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/xmjsq.js
 
 */
 const $ = new Env('小明计算器');

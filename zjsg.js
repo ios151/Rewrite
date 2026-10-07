@@ -2,7 +2,7 @@
   * 指尖时光
 
 [rewrite_local]
-^https?:\/\/integral2\.(dasyibalang|zhijiantime)\.com\/.+\/User url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/zjsg.js
+^https?:\/\/integral2\.(dasyibalang|zhijiantime)\.com\/.+\/User url script-response-body https://raw.githubusercontent.com/ios151/Rewrite/main/zjsg.js
 [mitm]
 hostname = integral2.*.com
 

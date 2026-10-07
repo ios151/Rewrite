@@ -4,7 +4,7 @@
 更新日志：2025-07-24
 [task_local]
 
-0 21 * * * https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/one_daily_task.js, tag=每日戒色, img-url=https://photo.lily.lat/file/AgACAgQAAyEGAASLgSpZAAIFo2hRNgKtUSf_5Fqq65D-5srmxe9xAAIvxDEbhB-QUg1ZBV-Yw0lfAQADAgADbQADNgQ.png, enabled=true
+0 21 * * * https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/one_daily_task.js, tag=每日戒色, img-url=https://photo.lily.lat/file/AgACAgQAAyEGAASLgSpZAAIFo2hRNgKtUSf_5Fqq65D-5srmxe9xAAIvxDEbhB-QUg1ZBV-Yw0lfAQADAgADbQADNgQ.png, enabled=true
 
 */
 const $ = new Env('ONE每日视频', {

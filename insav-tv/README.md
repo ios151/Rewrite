@@ -8,19 +8,19 @@ VIP 解锁 + 去广告 + 第三方播放器跳转。Surge / Loon / Stash / Quant
 
 **Surge / Egern**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/insav-tv/modules/insav.sgmodule
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/insav-tv/modules/insav.sgmodule
 
 **Quantumult X**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/insav-tv/modules/insav.conf
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/insav-tv/modules/insav.conf
 
 **Loon**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/insav-tv/modules/insav.lpx
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/insav-tv/modules/insav.lpx
 
 **BoxJS 配置面板**
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/pear.boxjs.json
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/pear.boxjs.json
 
 > Stash / Shadowrocket 等：用 [Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) 把 `.sgmodule` 转换后订阅。
 
@@ -79,7 +79,7 @@ npm run build
 产物 `dist/insav.js` 直接被 `script-path` 引用：
 
 ```
-https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/insav-tv/dist/insav.js
+https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/insav-tv/dist/insav.js
 ```
 
 </details>
