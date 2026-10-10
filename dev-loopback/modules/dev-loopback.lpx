@@ -1,0 +1,12 @@
+#!name=本机开发服务回环
+#!icon=https://raw.githubusercontent.com/ios151/Rewrite/refs/heads/main/dev-loopback/modules/dev-loopback.png
+#!author=ios151 Rewrite
+#!homepage=https://github.com/ios151/Rewrite
+#!loon_version=3.5.3(1007)
+
+[General]
+ipv6-vif = off
+include-tun = 10.7.0.1/32
+
+[IP Rewrite]
+10.7.0.1 = reflect
